@@ -1,4 +1,4 @@
 # Gmaps_distancefinder
 A simple UI application to find distance between 2 addresses. Shows the distance, driving time and a visual representation on the map.
 
-Developed in Php. Using GMaps API.
+Developed Using GMaps API.
